@@ -1,3 +1,3 @@
 # helloWorld
 
-My first try to code withgithub. 
+My first try to code with github. 
